@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     subgraph "Уровень представления"
         Client["🌐 Браузер<br>(Клиентская часть)"]
@@ -21,4 +22,4 @@ graph LR
     style Client fill:#e1f5fe,stroke:#039be5,stroke-width:2px
     style Server fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px
     style DB fill:#efebe9,stroke:#5d4037,stroke-width:2px
-# -
+```
